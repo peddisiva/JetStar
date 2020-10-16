@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27880" started-at="2020-09-19T20:29:40 IST" finished-at="2020-09-19T20:30:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27880" started-at="2020-09-19T20:29:40 IST" finished-at="2020-09-19T20:30:08 IST">
+      <class name="com.jetstar.qa.test.SelectFlightTest">
+        <test-method status="PASS" signature="getUrl()[pri:0, instance:com.jetstar.qa.test.SelectFlightTest@131276c2]" name="getUrl" is-config="true" duration-ms="7952" started-at="2020-09-19T20:29:40 IST" finished-at="2020-09-19T20:29:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method status="PASS" signature="selectFlight()[pri:0, instance:com.jetstar.qa.test.SelectFlightTest@131276c2]" name="selectFlight" duration-ms="19895" started-at="2020-09-19T20:29:48 IST" finished-at="2020-09-19T20:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFlight -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jetstar.qa.test.SelectFlightTest@131276c2]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-09-19T20:30:08 IST" finished-at="2020-09-19T20:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jetstar.qa.test.SelectFlightTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

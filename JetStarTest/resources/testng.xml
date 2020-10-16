@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="JetStar Test Automation" thread-count="2">
+	
+	<test name="JetStar Test Cases" >
+		<classes>
+			<class name="com.jetstar.qa.test.SelectFlightTest"></class>
+		</classes>
+	</test>
+</suite>
